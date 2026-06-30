@@ -16,7 +16,7 @@ Este repositório reúne toda a documentação e os arquivos referentes ao proje
 .
 ├── circuito/              # Arquivos do circuito desenvolvidos no WiredPanda
 ├── relatorio/             # Relatório final em PDF
-├── videos/                 # Vídeos do Pitch Acadêmico e do funcionamento do circuito
+├── videos/                # Vídeos do Pitch Acadêmico e do funcionamento do circuito
 └── README.md
 ```
 
